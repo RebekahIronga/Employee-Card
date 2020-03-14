@@ -1,0 +1,43 @@
+body{
+    background-color: black;
+}
+.card{
+    margin-top: 100px;
+    height: 330px; width: 230px;
+    background-color: white;
+    border-radius: 20px;
+
+}
+
+img{
+    height: 100px;
+    margin-top: 25px;
+}
+.header{
+    padding-top: 20px;
+    background-color: red;
+    height: 80px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+
+}
+.space{
+    background-color: black;
+    width: 25%;
+    height: 6px;
+    border-radius: 50px;
+}
+.header h2{
+    color: whitesmoke;
+}
+#address{
+    font-size: 9px;
+    margin-top: 24px;
+}
+.jobtitle{
+    margin: 0;
+    font-size: 13px;
+}
+h3{
+    margin: 0;
+}
